@@ -25,11 +25,17 @@
 ##### [참조 link](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
 1. local 저장소 reset
 ```bash
+# 직전 commit
 git reset HEAD^
+
+# before 2 commits 
 git reset HEAD~2
+
+# target commit
 git reset [commitid]
 ```
 2. 원격저장소 강제(-f 옵션) push
 ```bash
+# force option, "-f"
 git push origin master -f
 ```
