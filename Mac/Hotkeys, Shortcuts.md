@@ -17,6 +17,8 @@
 - 세로편집 : Command + Shift + 8
 - 줄이동 : Command + Shift + ⬆️ , ⬇️
 - 줄복사 : Command + D
+- use template : Option + Command + T
+  - e.g. try catch block
 ---
 
 ### VSCode
