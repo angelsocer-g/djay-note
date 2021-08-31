@@ -15,7 +15,7 @@
 - 코드 자동 정렬 (Reformat Code) : Option + Command + L
 - 다중편집 : Option + Command + Shift + click
 - 세로편집 : Command + Shift + 8
-- 줄이동 : Command + Shift + ⬆️ , ⬇️
+- 줄이동 : Option + Shift + ⬆️ , ⬇️
 - 줄복사 : Command + D
 - use template : Option + Command + T
   - e.g. try catch block
@@ -25,6 +25,8 @@
 - Search (action) : Command + Shift + P
 - SideBar(Explorer) toggle : Command + B
 - Terminal toggle : Control + `
+- 줄이동 : Option + ⬆️ , ⬇️
+- 줄복사 : Option + Shift + ⬆️ , ⬇️
 ---
 
 ### sublime text
